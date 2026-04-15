@@ -6,6 +6,9 @@
     box-sizing: border-box;
     font-family: 'Archivo', sans-serif;
 }
+*::-webkit-scrollbar{
+    display: none;
+}
 
 a{
     text-decoration: none;
